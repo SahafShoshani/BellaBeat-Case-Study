@@ -5,6 +5,7 @@ author: "Sahaf Shoshani"
 date: "04/02/2023"
 output:
   html_document:
+    theme: cerulean
     toc: true
     toc_float: true
 ---
@@ -64,8 +65,7 @@ Our goal is to identify meaningful patterns and insights from the data to inform
 We plan to explore relationships between different measures and visualize the data at various time intervals, such as minute, hour, and week. Additionally, we will analyze the distribution of different values to gain further insights. All of these approaches will help us achieve our marketing objectives.<br>
 **Are there any problems with the data?**<br>
 Kaggle article do mention that there is some variation between output represents use of different types of Fitbit trackers and individual tracking behaviors / preferences.
-To address the issue, we will perform data cleaning and normalization techniques.Additionally, we will perform statistical analysis to identify and adjust for any biases or inconsistencies in the data.
-
+To address the issue, we will perform data cleaning and normalization techniques.Additionally, we will perform statistical analysis to identify and adjust for any biases or inconsistencies in the data.<br>
 Additionally, there is no information provided on how the different levels of the data were determined or defined.
 For that we would conduct exploratory data analysis (EDA) on the data to see if there are any patterns or inconsistencies that might indicate how the levels were determined. This will involve examining the distributions of the data, looking for outliers, and examining relationships between different variables.
 
