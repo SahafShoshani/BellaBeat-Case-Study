@@ -9,7 +9,7 @@ output:
     toc: true
     toc_float: true
 ---
-HTML and RMD files can be found at [Github](https://github.com/SahafShoshani/BellaBeat-Case-Study)
+HTML and RMD files can be found on [Github](https://github.com/SahafShoshani/BellaBeat-Case-Study)
 
 
 ## Bellabeat Introduction
